@@ -1,4 +1,4 @@
-# stack-es2015-module
+# stack-es2015-module [![Build Status](https://travis-ci.org/onsetsu/stack-es2015-module.svg?branch=master)](https://travis-ci.org/onsetsu/stack-es2015-module)
 A simple stack data structure provided as es2015 module.
 
 ## Installation
